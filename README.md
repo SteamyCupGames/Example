@@ -87,8 +87,6 @@ Aprende sobre:
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## Recursos Adicionales
-
 - [Documentación de GitHub](https://docs.github.com/)
 - [Ultralytics YOLO](https://docs.ultralytics.com/)
 - [Jupyter Notebook](https://jupyter.org/)
