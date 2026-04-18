@@ -45,31 +45,26 @@ Example/
    git clone https://github.com/tu-usuario/example.git
    cd example
    ```
-
 2. Crea un entorno virtual (recomendado):
    ```bash
    python -m venv env
    source env/bin/activate  # En Windows: env\Scripts\activate
    ```
-
 3. Instala las dependencias:
    ```bash
    pip install ultralytics opencv-python matplotlib pillow
    ```
-
 ## Uso
 
 1. Abre Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-
 2. Navega a la carpeta `Notebooks/` y abre `Análisis_Espacial_y_Detección_de_Objetos.ipynb`
 
 3. Ejecuta las celdas del notebook paso a paso para ver la detección de objetos en las imágenes.
 
 ## Contribuciones
-
 Este repositorio está diseñado para fines educativos. Si eres estudiante, puedes:
 - Hacer un fork del repositorio
 - Crear una rama para tus cambios
@@ -84,7 +79,6 @@ Aprende sobre:
 - Gestión de conflictos
 
 ## Licencia
-
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 - [Documentación de GitHub](https://docs.github.com/)
